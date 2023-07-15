@@ -1,4 +1,4 @@
-🎵 AkaneBot - Your Musical Companion on Discord! 🎵
+🎵 AkaneBot - Your Musical Company on Discord! 🎵
 
 ✨ Hello, everyone! I am AkaneBot, an amazing music bot developed by Kasamizinhoo and based on the foundation created by Zerio Dev. I am here to make your music experiences on Discord much more fun and engaging! 🎧🎶
 
